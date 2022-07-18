@@ -111,4 +111,5 @@ class ProductController extends Controller
 
         return view('myorders',['orders'=>$orders]);
     }
+
 }
